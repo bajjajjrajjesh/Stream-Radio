@@ -32,9 +32,7 @@ Custom android based online radio streamer application. It’s can stream lot of
 * Add default radio stations (the phone read from your custom list)
 * Users can add custom stations (local data storage)
 * Animated buffering
-* AdMob integration
-* Android Studio & Eclipse project
-* No programming skills needed (video tutorial link in the zip file)
+
 
 # Screenshot
 ![](https://www.dropbox.com/s/rda9441h11b0gq6/1.png?dl=0)
