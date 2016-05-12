@@ -1,5 +1,6 @@
 # Stream-Radio
 ![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/image_preview.jpg)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/nexus-5-mockup23.png)
 ## Description
 Custom android based online radio streamer application. It’s can stream lot of file formats.
 
