@@ -1,5 +1,5 @@
 # Stream-Radio
-![](https://www.dropbox.com/sh/gr6bo66abyde4dc/AADYLRvEzloLQYxZhwclbJDya?dl=0)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/image_preview.jpg)
 ## Description
 Custom android based online radio streamer application. It’s can stream lot of file formats.
 
@@ -35,10 +35,10 @@ Custom android based online radio streamer application. It’s can stream lot of
 
 
 # Screenshot
-![](https://www.dropbox.com/s/rda9441h11b0gq6/1.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/2.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/3.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/4.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/5.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/6.png?dl=0)
-![](https://www.dropbox.com/s/rda9441h11b0gq6/7.png?dl=0)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/1.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/2.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/3.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/4.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/5.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/6.png)
+![](https://github.com/bajjajjrajjesh/Stream-Radio/blob/master/Screenshot/7.png)
